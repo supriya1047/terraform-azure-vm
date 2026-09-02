@@ -4,3 +4,4 @@ resource "azurerm_resource_group" "rgs" {
     location = each.value.location
   
 }
+# Managed using Terraform
