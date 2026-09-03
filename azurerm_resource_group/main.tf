@@ -7,3 +7,4 @@ resource "azurerm_resource_group" "rgs" {
 # Managed using Terraform
 # Testing Git diff
 # Change made in feature branch
+# Resource group managed through feature branch
