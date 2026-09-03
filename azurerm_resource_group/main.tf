@@ -5,3 +5,4 @@ resource "azurerm_resource_group" "rgs" {
   
 }
 # Managed using Terraform
+# Testing Git diff
