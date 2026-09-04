@@ -9,3 +9,4 @@ resource "azurerm_resource_group" "rgs" {
 # Change made in feature branch
 # Resource group managed through feature branch
 # Change from conflict demo branch
+# Change from main branch
