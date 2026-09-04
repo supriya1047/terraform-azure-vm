@@ -8,3 +8,4 @@ resource "azurerm_resource_group" "rgs" {
 # Testing Git diff
 # Change made in feature branch
 # Resource group managed through feature branch
+# Change from main branch
