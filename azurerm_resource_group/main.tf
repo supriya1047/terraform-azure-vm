@@ -12,3 +12,4 @@ resource "azurerm_resource_group" "rgs" {
 # Change from main branch
 # Main branch change for rebase demo
 # Rebase demo - feature change
+# Git stash demo change
