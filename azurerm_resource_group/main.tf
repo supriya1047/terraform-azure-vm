@@ -13,3 +13,4 @@ resource "azurerm_resource_group" "rgs" {
 # Main branch change for rebase demo
 # Rebase demo - feature change
 # Git stash demo change
+# Critical bug fix for cherry-pick demo
