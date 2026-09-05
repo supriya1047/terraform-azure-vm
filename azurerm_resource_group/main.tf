@@ -10,3 +10,4 @@ resource "azurerm_resource_group" "rgs" {
 # Resource group managed through feature branch
 # Change from conflict demo branch
 # Change from main branch
+# Main branch change for rebase demo
